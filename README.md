@@ -1,4 +1,23 @@
 # Assignment1
-Uqba Gulzar 067
-Hadia Ghazanfar 057
-Gul e Laila 123
+Name: Uqba Gulzar
+Roll No: CC-001
+Name: Uqba Gulzar
+Roll No: CC-001
+Name: Uqba Gulzar
+Roll No: CC-001
+Name: Uqba Gulzar
+Roll No: CC-001
+Name: Uqba Gulzar
+Roll No: CC-001
+Name: Uqba Gulzar
+Roll No: CC-001
+Name: Uqba Gulzar
+Roll No: CC-001
+Name: Uqba Gulzar
+Roll No: CC-001
+Name: Uqba Gulzar
+Roll No: CC-001
+Name: Uqba Gulzar
+Roll No: CC-001
+Name: Uqba Gulzar
+Roll No: CC-001
